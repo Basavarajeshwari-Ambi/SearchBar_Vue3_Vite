@@ -14,6 +14,7 @@
           v-model="searchbar"
           class="searchTerm"
           placeholder="Search here.."
+          autofocus
         />
 
         <button type="submit" onclick="myFunction()" class="searchButton">
